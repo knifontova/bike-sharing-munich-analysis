@@ -1,5 +1,3 @@
-# Project README
-
 ## Datasets:
 - MVG Rad: [https://www.mvg.de/services/mvg-rad.html](https://www.mvg.de/services/mvg-rad.html)
 - German Climate Data: [https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/](https://opendata.dwd.de/climate_environment/CDC/observations_germany/climate/hourly/)
